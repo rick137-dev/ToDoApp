@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 
-//Test comment
+
 
 public class HelloApplication extends Application {
     @Override
